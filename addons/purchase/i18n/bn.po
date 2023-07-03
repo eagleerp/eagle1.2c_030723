@@ -265,12 +265,12 @@ msgstr ""
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_order__activity_ids
 msgid "Activities"
-msgstr "ক্রিয়াকলাপ"
+msgstr "একটিভিটিস"
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_order__activity_state
 msgid "Activity State"
-msgstr "ক্রিয়াকলাপের অবস্থা"
+msgstr "একটিভিটি স্টেটাস"
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_account_invoice__purchase_id

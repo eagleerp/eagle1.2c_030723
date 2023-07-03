@@ -494,12 +494,12 @@ msgstr ""
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__activity_ids
 msgid "Activities"
-msgstr "ক্রিয়াকলাপ"
+msgstr "একটিভিটিস"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__activity_state
 msgid "Activity State"
-msgstr "ক্রিয়াকলাপের অবস্থা"
+msgstr "একটিভিটি স্টেটাস"
 
 #. module: sale
 #: model:ir.actions.act_window,name:sale.mail_activity_type_action_config_sale

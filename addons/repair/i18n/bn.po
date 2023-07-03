@@ -140,12 +140,12 @@ msgstr ""
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__activity_ids
 msgid "Activities"
-msgstr "ক্রিয়াকলাপ"
+msgstr "একটিভিটিস"
 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__activity_state
 msgid "Activity State"
-msgstr "ক্রিয়াকলাপের অবস্থা"
+msgstr "একটিভিটি স্টেটাস"
 
 #. module: repair
 #: selection:repair.line,type:0

@@ -1219,7 +1219,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_forum.post_comment
 #: model_terms:ir.ui.view,arch_db:website_forum.post_description_full
 msgid "Delete"
-msgstr "মুছে ফেলুন"
+msgstr "ডিলিট"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__karma_unlink_all
@@ -1296,7 +1296,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_forum.post_answers
 #: model_terms:ir.ui.view,arch_db:website_forum.post_description_full
 msgid "Edit"
-msgstr "সম্পাদন"
+msgstr "এডিট"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.edit_profile

@@ -862,7 +862,7 @@ msgstr ""
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_kanban
 msgid "Delete"
-msgstr "মুছে ফেলুন"
+msgstr "ডিলিট"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_event__description

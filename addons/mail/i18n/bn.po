@@ -2989,7 +2989,7 @@ msgstr ""
 #: code:addons/mail/static/src/xml/thread.xml:9
 #, python-format
 msgid "Manage Messages"
-msgstr "ম্যানেজ মেসেজেস"
+msgstr "ম্যানেজ ম্যাসেজ"
 
 #. module: mail
 #. openerp-web
@@ -3199,7 +3199,7 @@ msgstr ""
 #: model:ir.ui.menu,name:mail.menu_mail_message
 #: model_terms:ir.ui.view,arch_db:mail.view_message_tree
 msgid "Messages"
-msgstr "মেসেজেস"
+msgstr "ম্যাসেজ"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_message_search

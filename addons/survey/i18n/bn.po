@@ -301,12 +301,12 @@ msgstr ""
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__activity_ids
 msgid "Activities"
-msgstr "ক্রিয়াকলাপ"
+msgstr "একটিভিটিস"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__activity_state
 msgid "Activity State"
-msgstr "ক্রিয়াকলাপের অবস্থা"
+msgstr "একটিভিটি স্টেটাস"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message__add_sign
@@ -658,7 +658,7 @@ msgstr ""
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_kanban
 msgid "Delete"
-msgstr "মুছে ফেলুন"
+msgstr "ডিলিট"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message__auto_delete

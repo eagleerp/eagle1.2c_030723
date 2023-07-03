@@ -197,13 +197,13 @@ msgstr "সক্রিয়"
 #: model:ir.model.fields,field_description:product.field_product_product__activity_ids
 #: model:ir.model.fields,field_description:product.field_product_template__activity_ids
 msgid "Activities"
-msgstr "ক্রিয়াকলাপ"
+msgstr "একটিভিটিস"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__activity_state
 #: model:ir.model.fields,field_description:product.field_product_template__activity_state
 msgid "Activity State"
-msgstr "ক্রিয়াকলাপের অবস্থা"
+msgstr "একটিভিটি স্টেটাস"
 
 #. module: product
 #: model:product.category,name:product.product_category_all

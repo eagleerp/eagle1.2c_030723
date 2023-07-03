@@ -170,7 +170,7 @@ msgstr ""
 #. module: crm_reveal
 #: model:crm.reveal.industry,name:crm_reveal.crm_reveal_industry_14
 msgid "Automation"
-msgstr "স্বয়ংক্রিয়তা"
+msgstr "অটোমেশন"
 
 #. module: crm_reveal
 #: model:crm.reveal.industry,name:crm_reveal.crm_reveal_industry_15

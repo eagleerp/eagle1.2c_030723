@@ -501,7 +501,7 @@ msgstr "<i class=\"fa fa-magic\"/>শৈলীগুলি"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-minus\"/>Remove Tab"
-msgstr "<i class=\"fa fa-minus\"/>ট্যাব মুছে ফেলুন"
+msgstr "<i class=\"fa fa-minus\"/>ট্যাব ডিলিট"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -583,7 +583,7 @@ msgstr "<i class=\"fa fa-th-large\"/>ওয়েবসাইট"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
 msgid "<i class=\"fa fa-trash\"/>Remove all images"
-msgstr "<i class=\"fa fa-trash\"/>সব ছবি মুছে ফেলুন"
+msgstr "<i class=\"fa fa-trash\"/>সব ছবি ডিলিট"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -790,7 +790,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.layout_footer_copyright
 msgid "<span>Copyright &amp;copy;</span>"
-msgstr "<span>কপিরাইট &এএমপি;নকল;</span> "
+msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_quotes_carousel
@@ -894,7 +894,7 @@ msgstr "অ্যাকাউন্ট &এএমপি; বিক্রয় �
 #: model_terms:ir.ui.view,arch_db:website.bs_debug_page_ir_ui_view
 #: model_terms:website.page,arch_db:website.bs_debug_page
 msgid "Action"
-msgstr "ক্রিয়া"
+msgstr "অ্যাকশন"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page__active
@@ -911,7 +911,7 @@ msgid ""
 msgstr ""
 "আপনার ডিসাইন এর প্রয়োজনে তিনটি কালাম ধারণ করুন. প্রতিলিপি করতে, মুছে ফেলতে "
 "অথবা কলাম গুলি সরাতে, কালামটি সিলেক্ট করুন এবং উপরের আইকন ব্যবহার করে আপনার "
-"কর্ম সম্পাদন করুন।"
+"কর্ম এডিট করুন।"
 
 #. module: website
 #. openerp-web
@@ -1587,7 +1587,7 @@ msgstr "নির্ধারিত ভাষা কোড"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_grid
 msgid "Delete Blocks"
-msgstr "ব্লক মুছে ফেলুন"
+msgstr "ব্লক ডিলিট"
 
 #. module: website
 #. openerp-web
@@ -1791,17 +1791,17 @@ msgstr "ড্রপডাউন মেনু"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_grid
 msgid "Duplicate"
-msgstr "নকল"
+msgstr "ডুপ্লিকেট"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_grid
 msgid "Duplicate blocks and columns to add more features."
-msgstr "আরো বৈশিষ্ট্য যোগ করার জন্য সদৃশ ব্লক এবং কলাম নকল।"
+msgstr "আরো বৈশিষ্ট্য যোগ করার জন্য সদৃশ ব্লক এবং কলাম ডুপ্লিকেট।"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.publish_management
 msgid "Edit"
-msgstr "সম্পাদন"
+msgstr "এডিট"
 
 #. module: website
 #. openerp-web
@@ -3713,7 +3713,7 @@ msgstr "সামাজিক যোগাযোগের জন্য একট
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_grid
 msgid "Select and delete blocks to remove some features."
-msgstr "নির্বাচন করুন এবং কিছু বৈশিষ্ট্য মুছে ফেলার জন্য ব্লক মুছে ফেলুন।"
+msgstr "নির্বাচন করুন এবং কিছু বৈশিষ্ট্য মুছে ফেলার জন্য ব্লক ডিলিট।"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form

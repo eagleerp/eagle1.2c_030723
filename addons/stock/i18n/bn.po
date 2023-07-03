@@ -393,7 +393,7 @@ msgstr ""
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_rule__action
 msgid "Action"
-msgstr "ক্রিয়া"
+msgstr "অ্যাকশন"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking__message_needaction
@@ -415,13 +415,13 @@ msgstr "সক্রিয়"
 #: model:ir.model.fields,field_description:stock.field_stock_picking__activity_ids
 #: model:ir.model.fields,field_description:stock.field_stock_production_lot__activity_ids
 msgid "Activities"
-msgstr "ক্রিয়াকলাপ"
+msgstr "একটিভিটিস"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking__activity_state
 #: model:ir.model.fields,field_description:stock.field_stock_production_lot__activity_state
 msgid "Activity State"
-msgstr "ক্রিয়াকলাপের অবস্থা"
+msgstr "একটিভিটি স্টেটাস"
 
 #. module: stock
 #: model_terms:ir.actions.act_window,help:stock.action_production_lot_form

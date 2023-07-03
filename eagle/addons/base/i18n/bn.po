@@ -6522,7 +6522,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:base.action_view_tree
 #: model_terms:ir.ui.view,arch_db:base.view_window_action_search
 msgid "Action"
-msgstr "ক্রিয়া"
+msgstr "অ্যাকশন"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_actions_act_url__help
@@ -7431,7 +7431,7 @@ msgstr ""
 #. module: base
 #: model:ir.ui.menu,name:base.menu_automation
 msgid "Automation"
-msgstr "স্বয়ংক্রিয়তা"
+msgstr "অটোমেশন"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.ir_filters_view_form

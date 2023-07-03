@@ -1028,7 +1028,7 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.payment_confirmation_status
 msgid "Edit"
-msgstr "সম্পাদন"
+msgstr "এডিট"
 
 #. module: website_sale
 #. openerp-web

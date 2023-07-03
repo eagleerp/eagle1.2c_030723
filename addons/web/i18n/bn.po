@@ -286,7 +286,7 @@ msgstr ""
 #: code:addons/web/static/src/js/chrome/sidebar.js:34
 #, python-format
 msgid "Action"
-msgstr "ক্রিয়া"
+msgstr "অ্যাকশন"
 
 #. module: web
 #. openerp-web
@@ -1109,7 +1109,7 @@ msgstr "অবিকল্পিত:"
 #: code:addons/web/static/src/xml/kanban.xml:24
 #, python-format
 msgid "Delete"
-msgstr "মুছে ফেলুন"
+msgstr "ডিলিট"
 
 #. module: web
 #. openerp-web
@@ -1246,7 +1246,7 @@ msgstr "ড্রপডাউন মেনু"
 #: code:addons/web/static/src/js/views/form/form_controller.js:184
 #, python-format
 msgid "Duplicate"
-msgstr "নকল"
+msgstr "ডুপ্লিকেট"
 
 #. module: web
 #. openerp-web
@@ -1258,7 +1258,7 @@ msgstr "নকল"
 #: code:addons/web/static/src/xml/report.xml:14
 #, python-format
 msgid "Edit"
-msgstr "সম্পাদন"
+msgstr "এডিট"
 
 #. module: web
 #. openerp-web

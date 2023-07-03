@@ -1220,7 +1220,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:1405
 #, python-format
 msgid "Delete"
-msgstr "মুছে ফেলুন"
+msgstr "ডিলিট"
 
 #. module: point_of_sale
 #. openerp-web
@@ -1460,7 +1460,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:409
 #, python-format
 msgid "Edit"
-msgstr "সম্পাদন"
+msgstr "এডিট"
 
 #. module: point_of_sale
 #. openerp-web
