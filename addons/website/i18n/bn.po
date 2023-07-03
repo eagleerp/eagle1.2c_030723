@@ -2705,7 +2705,7 @@ msgstr "লেআউট"
 #: model_terms:ir.ui.view,arch_db:website.s_text_image
 #: model_terms:ir.ui.view,arch_db:website.s_three_columns
 msgid "Learn more"
-msgstr "লার্ন মোর"
+msgstr "আরো তথ্য পেতে"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options

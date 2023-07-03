@@ -6,7 +6,7 @@
     'category': 'Website',
     'sequence': 7,
     'summary': 'Enterprise website builder',
-    'website': 'https://www.eagle-erp.com/page/website-builder',
+    'website': 'https://www.eagle-erp.com',
     'version': '1.0',
     'description': "",
     'depends': [

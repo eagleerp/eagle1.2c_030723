@@ -1,8 +1,8 @@
 Eagle Website Builder
 --------------------
 
-Get an awesome and <a href="https://www.eagle-erp.com/page/website-builder">free website</a>,
-easily customizable with the Eagle <a href="https://www.eagle-erp.com/page/website-builder">website builder</a>.
+Get an awesome and <a href="https://www.eagle-erp.com">free website</a>,
+easily customizable with the Eagle <a href="https://www.eagle-erp.com">website builder</a>.
 
 Create enterprise grade website with our super easy builder. Use finely
 designed building blocks and edit everything inline.

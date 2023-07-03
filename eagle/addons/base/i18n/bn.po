@@ -14377,7 +14377,7 @@ msgstr ""
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.module_view_kanban
 msgid "Learn More"
-msgstr "লার্ন মোর"
+msgstr "আরো তথ্য পেতে"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_hr_holidays
@@ -16889,8 +16889,8 @@ msgid ""
 "Eagle Website Builder\n"
 "--------------------\n"
 "\n"
-"Get an awesome and <a href=\"https://www.eagle-erp.com/page/website-builder\">free website</a>,\n"
-"easily customizable with the Eagle <a href=\"https://www.eagle-erp.com/page/website-builder\">website builder</a>.\n"
+"Get an awesome and <a href=\"https://www.eagle-erp.com\">free website</a>,\n"
+"easily customizable with the Eagle <a href=\"https://www.eagle-erp.com\">website builder</a>.\n"
 "\n"
 "Create enterprise grade website with our super easy builder. Use finely\n"
 "designed building blocks and edit everything inline.\n"

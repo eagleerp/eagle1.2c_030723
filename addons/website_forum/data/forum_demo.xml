@@ -66,7 +66,7 @@ In simple words does Eagle became CMS+ERP platform?</p>]]></field>
         <record id="answer_1" model="forum.post">
             <field name="forum_id" ref="website_forum.forum_help"/>
             <field name="content"><![CDATA[
-<p>Eagle v8 (next release) provides a web module and an e-commerce module: www.eagle-erp.com/page/website-builder
+<p>Eagle v8 (next release) provides a web module and an e-commerce module: www.eagle-erp.com
 The CMS editor in Eagle web is nice but I prefer Drupal for customization and there is a Drupal module for Eagle. I think WP is better than Eagle web too.
 </p>]]></field>
             <field name="parent_id" ref="question_1"/>
