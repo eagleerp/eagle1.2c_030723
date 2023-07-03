@@ -2543,7 +2543,7 @@ msgstr ""
 #: code:addons/web/static/src/js/widgets/data_export.js:177
 #, python-format
 msgid "Please enter save field list name"
-msgstr "অনুগ্রহপুর্বক \"তালিকাভুক্ত ক্ষেত্রের নাম সংরক্ষণ করুন\" লিখুন"
+msgstr "অনুগ্রহপুর্বক \"তালিকাভুক্ত ক্ষেত্রের নাম সেইভ করুন\" লিখুন"
 
 #. module: web
 #. openerp-web
@@ -2829,7 +2829,7 @@ msgstr ""
 #: code:addons/web/static/src/xml/report.xml:17
 #, python-format
 msgid "Save"
-msgstr "সংরক্ষণ করুন"
+msgstr "সেইভ"
 
 #. module: web
 #. openerp-web
@@ -2864,7 +2864,7 @@ msgstr ""
 #: code:addons/web/static/src/xml/base.xml:1443
 #, python-format
 msgid "Save as:"
-msgstr "নতুনভাবে সংরক্ষণ করুন:"
+msgstr "নতুনভাবে সেইভ করুন:"
 
 #. module: web
 #. openerp-web

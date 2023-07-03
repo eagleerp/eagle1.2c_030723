@@ -1269,7 +1269,7 @@ msgstr ""
 #: code:addons/web_editor/static/src/xml/editor.xml:13
 #, python-format
 msgid "Save"
-msgstr "সংরক্ষণ করুন"
+msgstr "সেইভ"
 
 #. module: web_editor
 #. openerp-web

@@ -14879,7 +14879,7 @@ msgstr ""
 "আপনার নিয়োগ প্রক্রিয়াটি স্ট্রিমলাইন করুন\n"
 "-----------------------------------\n"
 "\n"
-"স্মার্ট কানবান ভিউ সহ আপনার নিয়োগ প্রক্রিয়াতে আবেদনকারীদের অনুসরণ করুন। সংরক্ষণ করুন\n"
+"স্মার্ট কানবান ভিউ সহ আপনার নিয়োগ প্রক্রিয়াতে আবেদনকারীদের অনুসরণ করুন। সেইভ করুন\n"
 "ইমেল টেমপ্লেটগুলির সাথে কিছু যোগাযোগ স্বয়ংক্রিয় করে time\n"
 "\n"
 "পুনঃসূচনা এবং অনুপ্রেরণা পত্রগুলির মতো নথিগুলি স্বয়ংক্রিয়ভাবে ইনডেক্স করা হয়,\n"
@@ -19501,7 +19501,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:base.view_company_report_form
 #: model_terms:ir.ui.view,arch_db:base.view_users_form_simple_modif
 msgid "Save"
-msgstr "সংরক্ষণ করুন"
+msgstr "সেইভ"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_company_report_form_with_print

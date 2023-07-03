@@ -2553,7 +2553,7 @@ msgstr "এসইও অপটিমাইজড"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.edit_post
 msgid "Save"
-msgstr "সংরক্ষণ করুন"
+msgstr "সেইভ"
 
 #. module: website_forum
 #: model:gamification.badge,name:website_forum.badge_26
