@@ -1,0 +1,34 @@
+#!/bin/sh
+
+set -e
+
+EAGLE_CONFIGURATION_FILE=/etc/eagle/eagle.conf
+EAGLE_GROUP="eagle"
+EAGLE_DATA_DIR=/var/lib/eagle
+EAGLE_LOG_DIR=/var/log/eagle
+EAGLE_USER="eagle"
+
+case "${1}" in
+    configure)
+        if ! getent passwd | grep -q "^eagle:"; then
+            adduser --system --home $EAGLE_DATA_DIR --quiet --group $EAGLE_USER
+        fi
+        # Register "$EAGLE_USER" as a postgres user with "Create DB" role attribute
+        su - postgres -c "createuser -d -R -S $EAGLE_USER" 2> /dev/null || true
+        # Configuration file
+        chown $EAGLE_USER:$EAGLE_GROUP $EAGLE_CONFIGURATION_FILE
+        chmod 0640 $EAGLE_CONFIGURATION_FILE
+        # Log
+        mkdir -p $EAGLE_LOG_DIR
+        chown $EAGLE_USER:$EAGLE_GROUP $EAGLE_LOG_DIR
+        chmod 0750 $EAGLE_LOG_DIR
+        # Data dir
+        chown $EAGLE_USER:$EAGLE_GROUP $EAGLE_DATA_DIR
+        ;;
+    *)
+        ;;
+esac
+
+#DEBHELPER#
+
+exit 0

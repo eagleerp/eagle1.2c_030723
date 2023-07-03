@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eagle>
+    <record id="base.main_company" model="res.company">
+        <field name="social_twitter">https://twitter.com/Eagle</field>
+        <field name="social_facebook">https://www.facebook.com/Eagle</field>
+        <field name="social_googleplus">https://plus.google.com/+Eagleapps</field>
+        <field name="social_linkedin">https://www.linkedin.com/company/eagle</field>
+        <field name="social_youtube">https://www.youtube.com/user/EagleERPonline</field>
+        <field name="social_github">https://github.com/eagle</field>
+        <field name="social_instagram">https://www.instagram.com/explore/tags/eagle/</field>
+    </record>
+</eagle>

@@ -1,0 +1,28 @@
+#!/bin/sh
+
+set -e
+
+EAGLE_LIB_DIR=/var/lib/eagle
+EAGLE_USER="eagle"
+EAGLE_GROUP="eagle"
+
+case "${1}" in
+    remove)
+        deluser --quiet --system $EAGLE_USER || true
+        delgroup --quiet --system --only-if-empty $EAGLE_GROUP || true
+        ;;
+
+    purge)
+        if [ -d "$EAGLE_LIB_DIR" ]; then
+            rm -rf $EAGLE_LIB_DIR
+        fi
+        ;;
+
+    upgrade|failed-upgrade|abort-install|abort-upgrade|disappear)
+        ;;
+
+esac
+
+#DEBHELPER#
+
+exit 0
