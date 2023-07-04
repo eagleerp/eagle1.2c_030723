@@ -2585,7 +2585,7 @@ msgstr ""
 #: code:addons/web/static/src/xml/base.xml:1549
 #, python-format
 msgid "Preferences"
-msgstr "প্রেফারেন্সেস"
+msgstr "প্রিফারেন্সেস"
 
 #. module: web
 #: model:ir.actions.report,name:web.action_report_externalpreview

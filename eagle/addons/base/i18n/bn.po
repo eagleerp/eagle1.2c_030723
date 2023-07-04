@@ -10822,7 +10822,7 @@ msgstr ""
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form_simple_modif
 msgid "Email Preferences"
-msgstr "ইমেইল প্রেফারেন্সেস"
+msgstr "ইমেইল প্রিফারেন্সেস"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_partner__employee
@@ -18229,7 +18229,7 @@ msgstr ""
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form
 msgid "Preferences"
-msgstr "প্রেফারেন্সেস"
+msgstr "প্রিফারেন্সেস"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_sequence__prefix
